@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FinalProject</string>
+    <string name="action_settings">add</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_show">ShowActivity</string>
+    <string name="action_add">เพิ่มข้อมูล</string>
+
+</resources>
